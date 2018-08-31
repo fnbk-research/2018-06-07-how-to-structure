@@ -6,7 +6,7 @@ In project work I regularly find myself asking the following question: **How to 
 - How do you structure Golang projects or maybe React applications?
 - In what structural way should microservices interact with each other?
 - What about pods in Kubernetes?
-- on and on ...
+- and on and on ...
 
 These questions arise more than often among developers and can lead to heated discussions.
 
@@ -16,9 +16,9 @@ Maybe, but before that happens I set out on a mission to develop a common langua
 
 How about SLA (Single Level of Abstraction), DRY (Don't repeat yourself), WET (Write Everything Twice)? Do you like these abstractions?
 
-I certainly do it helps to grab the bull by its horns.
+I certainly do, because it helps to grab the bull by its horns.
 
-After working as a contractor for many projects I could not stand to see the dirt we were producing day in and day out.
+After working as a contractor on many projects I could not stand to see the dirt we were producing day in and day out.
 
 So I set out on a mission to define a common language to simplify discussions about "How to structure Software" and give the developers back their freedom to develop great application.
 
